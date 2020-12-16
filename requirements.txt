@@ -80,7 +80,7 @@ python-dateutil
 python-engineio
 python-socketio
 pytz
-
+pywin32
 pywinpty
 PyYAML
 pyzmq
